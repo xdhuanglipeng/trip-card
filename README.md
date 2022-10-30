@@ -16,9 +16,9 @@
 
 ## 网页 Demo
 
-Cloudflare: [https://tripcard.pages.dev](https://tripcard.pages.dev)
+Cloudflare: [https://ilovexjp.pages.dev/trip-card](https://ilovexjp.pages.dev/trip-card)
 
-Netlify: [https://kind-snyder-68dad8.netlify.app](https://kind-snyder-68dad8.netlify.app)
+Netlify: [https://ilovexjp.netlify.app/trip-card](https://ilovexjp.netlify.app/trip-card)
 
 使用 Demo 时请注意：我们不会主动收集任何访问数据，但不保证网站托管的服务商不会收集访问信息。若担心隐私，可以从 [GitHub Releases](https://github.com/ilovexjp/trip-card/releases) 中下载源码自行部署。
 
@@ -31,5 +31,3 @@ GitHub 曾以违反 TOS（服务条款）为由删除我们的仓库及 GitHub P
 本项目**不保证**与官方页面同步更新，亦**不可用于**查验。
 
 如有**针对本项目**的 Bug Report 与 Feature Request 等，可在 Issues 中提出；无关这一项目的议题将可能被删除。
-
-如果你想与我们共同工作，可以发邮件至 ilovexjp@protonmail.com。请注意保护个人信息安全。
