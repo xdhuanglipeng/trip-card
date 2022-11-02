@@ -24,10 +24,10 @@ Netlify: [https://ilovexjp.netlify.app/trip-card](https://ilovexjp.netlify.app/t
 
 ## 附言
 
-GitHub 曾以违反 TOS（服务条款）为由删除我们的仓库及 GitHub Pages，所以目前源码只放在 Releases 中。另请关注 Telegram 频道 [@gh_ilovexjp](https://t.me/gh_ilovexjp) ，以免账号被封禁后无法获取到更新。
+GitHub 曾以违反 TOS（服务条款）为由删除我们的仓库及 GitHub Pages，所以目前源码只放在 Releases 中。
 
-这个项目的源码不含与除部署网页的服务器外其它服务器的交流，所有信息的更改保存在本地 `localStorage` 中，仅当前域可访问。更改信息时，清空输入框并确认可以恢复该项默认值；清除浏览器的浏览数据会恢复所有项的默认值。
+这个项目的源码不含与除部署网页的服务器外其它服务器的交流，所有信息的更改保存在本地 `localStorage` 中，仅当前域可访问。
 
 本项目**不保证**与官方页面同步更新，亦**不可用于**查验。
 
-如有**针对本项目**的 Bug Report 与 Feature Request 等，可在 Issues 中提出；无关这一项目的议题将可能被删除。
+如有**针对本项目**的 Bug Report 与 Feature Request 等，可在 Issues 中提出；问题、一般讨论或新项目提议请前往 [Discussions](https://github.com/ilovexjp/health-code-index/discussions)。
